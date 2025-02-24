@@ -1,1 +1,1 @@
-# gringa zencortex
+# gringa
